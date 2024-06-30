@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Md. Rokibul Hasan's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Md. Rokibul Hasan Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -19,11 +19,11 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
+  title: "Md. Rokibul Hasan",
   logo_name: "AshutoshHathidara",
   nickname: "layman_brother",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I'm a dedicated software developer specializing in SQL, PL-SQL, Oracle Fusion Middleware, and Oracle APEX. With nearly two years of professional experience, I've developed and maintained robust software solutions, managed databases, and contributed to impactful projects across various sectors. I hold professional certifications from Oracle University and a PGDIT from Jahangirnagar University. I'm passionate about leveraging my expertise to drive innovation and deliver high-quality applications. I'm seeking opportunities that challenge me to grow and offer a collaborative, growth-oriented environment.",
   resumeLink:
     "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
@@ -33,10 +33,10 @@ const greeting = {
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
+  // linkedin: "https:// linkedin.com/in/devrokib/",
   // gmail: "ashutoshhathidara98@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
+  // facebook: "https://www.facebook.com/devrokib/",
   // twitter: "https://twitter.com/ashutosh_1919",
   // instagram: "https://www.instagram.com/layman_brother/"
 
@@ -48,7 +48,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh1919/",
+    link: "https://www. linkedin.com/in/devrokib/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -72,7 +72,7 @@ const socialMediaLinks = [
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
+    link: "https://www.facebook.com/devrokib/",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
@@ -380,8 +380,8 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "National University",
+      subtitle: "BSC in Botany",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
       duration: "2016 - 2020",
@@ -393,8 +393,8 @@ const degrees = {
       website_link: "http://iiitk.ac.in",
     },
     {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
+      title: "Jahangirnagar University",
+      subtitle: "PGDIT in Information Technology",
       logo_path: "iu_logo.png",
       alt_name: "Indiana University Bloomington",
       duration: "2021 - 2023",
