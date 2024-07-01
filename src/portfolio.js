@@ -399,34 +399,21 @@ const degrees = {
       website_link: "https://www.nu.ac.bd/",
     },
      {
-      title: "National University",
-      subtitle: "BSC in Botany",
+      title: "Jahangirnagar University",
+      subtitle: "Professional Masters in Information Technology",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
+      duration: "",
       descriptions: [
-        "⚡ Core Studies: Studied fundamental subjects such as Plant Physiology, Genetics, Ecology, and Microbiology",
-        "⚡ Research Projects: Conducted various research projects on plant biology and environmental science, gaining hands-on experience in laboratory techniques and fieldwork",
-        "⚡ Extracurricular Learning: Participated in workshops and seminars related to botany and environmental conservation",
+        "⚡ In-Depth Curriculum: Studied advanced topics in Information Technology, focusing on database management, software development, and IT project management",
+        "⚡ Hands-On Learning: Completed practical projects and assignments, applying theoretical knowledge to real-world IT challenges",
+        "⚡ Skill Development: Enhanced technical and professional skills, preparing for leadership roles in the IT industry through comprehensive coursework and experiential learning",
       ],
-      website_link: "https://www.nu.ac.bd/",
+      website_link: "https://juniv.edu/",
     },
      {
-      title: "National University",
-      subtitle: "BSC in Botany",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
-      descriptions: [
-        "⚡ Core Studies: Studied fundamental subjects such as Plant Physiology, Genetics, Ecology, and Microbiology",
-        "⚡ Research Projects: Conducted various research projects on plant biology and environmental science, gaining hands-on experience in laboratory techniques and fieldwork",
-        "⚡ Extracurricular Learning: Participated in workshops and seminars related to botany and environmental conservation",
-      ],
-      website_link: "https://www.nu.ac.bd/",
-    },
-    {
       title: "Jahangirnagar University",
-      subtitle: "PGDIT in Information Technology",
+      subtitle: "PGD in Information Technology",
       logo_path: "iu_logo.png",
       alt_name: "Indiana University Bloomington",
       duration: "2021 - 2022",
@@ -437,6 +424,20 @@ const degrees = {
       ],
       website_link: "https://juniv.edu/",
     },
+     {
+      title: "IsDB-BISEW",
+      subtitle: "IT Scholarship Programme",
+      logo_path: "iiitk_logo.png",
+      alt_name: "IIITDM Kurnool",
+      duration: "2022 - 2023",
+      descriptions: [
+        "⚡ Focus: Specialized in database design and development",
+        "⚡ Technical Skills: Acquired proficiency in SQL, PL/SQL, HTML, CSS, JavaScript, Oracle APEX, and Oracle Database",
+        "⚡ Comprehensive Training: Received extensive training in both theoretical and practical aspects of IT and database management",
+      ],
+      website_link: "https://isdb-bisew.org/it-scholarship-programme/it-scholarship-programme",
+    },
+   
   ],
 };
 
