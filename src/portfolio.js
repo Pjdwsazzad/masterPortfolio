@@ -90,11 +90,11 @@ const skills = {
       title: "Oracle Apex",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Application Development: Creating robust, scalable web applications using Oracle APEX.",
-        "⚡ Database Management: Expertise in SQL, PL/SQL, and database administration to ensure optimal performance and security.",
-        "⚡ Custom Solutions: Developing custom solutions for business needs, including HR, payroll, and school management systems.",
-        "⚡ User Interface Design: Designing intuitive and user-friendly interfaces to enhance user experience.",
-        "⚡ Integration: Integrating Oracle APEX applications with other technologies and platforms to streamline business processes.",
+        "⚡ Application Development: Creating robust, scalable web applications using Oracle APEX",
+        "⚡ Database Management: Expertise in SQL, PL/SQL, and database administration to ensure optimal performance and security",
+        "⚡ Custom Solutions: Developing custom solutions for business needs, including HR, payroll, and school management systems",
+        "⚡ User Interface Design: Designing intuitive and user-friendly interfaces to enhance user experience",
+        "⚡ Integration: Integrating Oracle APEX applications with other technologies and platforms to streamline business processes",
       ],
       softwareSkills: [
         {
@@ -137,9 +137,13 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Front-End Development: Crafting responsive and user-friendly interfaces using HTML, CSS, JavaScript, and modern frameworks",
+        "⚡ Back-End Development: Building robust server-side applications with SQL, PL/SQL, and other server-side technologies",
+        "⚡ Database Management: Managing and optimizing databases, ensuring high performance and security",
+        "⚡ Oracle APEX Expertise: Developing comprehensive applications using Oracle APEX, from design to deployment",
+        "⚡ API Integration: Integrating third-party APIs and services to enhance functionality and interoperability",
+        "⚡ Email Configuration: Setting up and managing email servers, ensuring reliable and secure email communication",
+        "⚡ End-to-End Solutions: Delivering complete solutions, from gathering requirements to deployment and maintenance, ensuring seamless operation and user satisfaction",
       ],
       softwareSkills: [
         {
