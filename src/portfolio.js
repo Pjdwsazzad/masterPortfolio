@@ -48,7 +48,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www. linkedin.com/in/devrokib/",
+    link: "https://linkedin.com/in/devrokib/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -417,89 +417,89 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
+      title: "Oracle APEX Cloud Developer Certified Professional",
+      subtitle: "- Issued by Oracle University",
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=95EB0F9106C09EF99AA3881F0CA9EA1BD8AA3554E11768D796450CC58602CF6C",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
+      title: "Oracle Cloud Infrastructure 2024 Generative AI Certified Professional",
+      subtitle: "- Issued by Oracle University",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=88AF690837DC0E7C2C42A8AD10454D426894703C0C14A6888CD13BFB95C7D6ED",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
+      title: "Oracle Cloud Data Management 2023 Certified Foundations Associate",
+      subtitle: "- Issued by Oracle University",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=DDB1B65DBE02846BDC7A63907EDEB818035553A76047C9F0A41F6EBFAB7D7E38",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
     {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
+      title: "Oracle Cloud Infrastructure 2023 Certified Foundations Associate",
+      subtitle: "- Issued by Oracle University",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+        "https://catalog-education.oracle.com/pls/certview/sharebadge?id=69DA5F450DAF074D1B1DC4FE58E343B8A19A21CEDF22F14200B45E865DAEC32B",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
     {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
+      title: "Data Science",
+      subtitle: "- Great Learning Academy",
       logo_path: "microsoft_logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
+        "https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/4058412/original/Md_Rokibul_Hasan20240127-70-16h2g6a.jpg",
       alt_name: "Microsoft",
       color_code: "#D83B0199",
     },
     {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
+      title: "Advanced SQL",
+      subtitle: "- Great Learning Academy",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
+        "https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/4058387/original/Md_Rokibul_Hasan20240127-70-7r6vie.jpg",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
     {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
+      title: "Front End Development - HTML",
+      subtitle: "- Great Learning Academy",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
+        "https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/4058006/original/Md_Rokibul_Hasan20240127-70-115s1ce.jpg",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
     {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
+      title: "Data Preprocessing",
+      subtitle: "- Great Learning Academy",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
+        "https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/4057986/original/Md_Rokibul_Hasan20240127-70-1nbt0vm.jpg",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
     {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
+      title: "Database Management System",
+      subtitle: "- Great Learning Academy",
       logo_path: "coursera_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+        "https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/3475113/original/Md_Rokibul_Hasan20231008-74-6hixwb.jpg",
       alt_name: "Coursera",
       color_code: "#2A73CC",
     },
     {
       title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
+      subtitle: "- Great Learning Academy",
       logo_path: "gcp_logo.png",
       certificate_link:
         "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
@@ -508,7 +508,7 @@ const certifications = {
     },
     {
       title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
+      subtitle: "- Great Learning Academy",
       logo_path: "nptel_logo.png",
       certificate_link:
         "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
