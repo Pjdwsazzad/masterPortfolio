@@ -19,9 +19,9 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Md. Rokibul Hasan",
+  title: "Rokibul Hasan",
   logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  nickname: "Oracle Certified Professional",
   subTitle:
     "I'm a dedicated software developer specializing in SQL, PL-SQL, Oracle Fusion Middleware, and Oracle APEX. With nearly two years of professional experience, I've developed and maintained robust software solutions, managed databases, and contributed to impactful projects across various sectors. I hold professional certifications from Oracle University and a PGDIT from Jahangirnagar University. I'm passionate about leveraging my expertise to drive innovation and deliver high-quality applications. I'm seeking opportunities that challenge me to grow and offer a collaborative, growth-oriented environment.",
   resumeLink:
@@ -32,13 +32,13 @@ const greeting = {
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
+  // github: "https://github.com/rokibdev",
   // linkedin: "https:// linkedin.com/in/devrokib/",
-  // gmail: "ashutoshhathidara98@gmail.com",
+  // gmail: "rokib.fsdev@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
   // facebook: "https://www.facebook.com/devrokib/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
+  // twitter: "https://x.com/RHROKIB6",
+  // instagram: "https://www.instagram.com/devrokib/"
 
   {
     name: "Github",
@@ -54,19 +54,19 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://youtube.com/c/DevSense19",
+    link: "https://www.youtube.com/channel/UCD8DmC3EiOl2rPxPPVrlxBg",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:rokib.fsdev@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "X-Twitter",
-    link: "https://twitter.com/ashutosh_1919",
+    link: "https://x.com/RHROKIB6",
     fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
     backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   },
@@ -78,7 +78,7 @@ const socialMediaLinks = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "https://www.instagram.com/devrokib/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -87,12 +87,14 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Oracle Apex",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Application Development: Creating robust, scalable web applications using Oracle APEX.",
+        "⚡ Database Management: Expertise in SQL, PL/SQL, and database administration to ensure optimal performance and security.",
+        "⚡ Custom Solutions: Developing custom solutions for business needs, including HR, payroll, and school management systems.",
+        "⚡ User Interface Design: Designing intuitive and user-friendly interfaces to enhance user experience.",
+        "⚡ Integration: Integrating Oracle APEX applications with other technologies and platforms to streamline business processes.",
       ],
       softwareSkills: [
         {
