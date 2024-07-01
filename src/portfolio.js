@@ -398,6 +398,32 @@ const degrees = {
       ],
       website_link: "https://www.nu.ac.bd/",
     },
+     {
+      title: "National University",
+      subtitle: "BSC in Botany",
+      logo_path: "iiitk_logo.png",
+      alt_name: "IIITDM Kurnool",
+      duration: "2016 - 2020",
+      descriptions: [
+        "⚡ Core Studies: Studied fundamental subjects such as Plant Physiology, Genetics, Ecology, and Microbiology",
+        "⚡ Research Projects: Conducted various research projects on plant biology and environmental science, gaining hands-on experience in laboratory techniques and fieldwork",
+        "⚡ Extracurricular Learning: Participated in workshops and seminars related to botany and environmental conservation",
+      ],
+      website_link: "https://www.nu.ac.bd/",
+    },
+     {
+      title: "National University",
+      subtitle: "BSC in Botany",
+      logo_path: "iiitk_logo.png",
+      alt_name: "IIITDM Kurnool",
+      duration: "2016 - 2020",
+      descriptions: [
+        "⚡ Core Studies: Studied fundamental subjects such as Plant Physiology, Genetics, Ecology, and Microbiology",
+        "⚡ Research Projects: Conducted various research projects on plant biology and environmental science, gaining hands-on experience in laboratory techniques and fieldwork",
+        "⚡ Extracurricular Learning: Participated in workshops and seminars related to botany and environmental conservation",
+      ],
+      website_link: "https://www.nu.ac.bd/",
+    },
     {
       title: "Jahangirnagar University",
       subtitle: "PGDIT in Information Technology",
