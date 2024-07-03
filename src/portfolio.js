@@ -593,7 +593,7 @@ const experience = {
           company: "Graphics Next",
           company_url: "/",
           logo_path: "muffito_logo.png",
-          duration: "Jun 2020 - Jan 2023,
+          duration: "Jun 2020 - Jan 2023",
           location: "Pune, Maharashtra",
           description:
             "At Graphics Next, I worked as a Senior Graphics Designer, leading design projects and creating visually compelling graphics. I was responsible for designing marketing materials, product packaging, and digital content, ensuring alignment with brand guidelines and client requirements. My role involved collaborating with cross-functional teams to deliver high-quality designs on time, utilizing advanced design software and tools, and contributing to the overall creative strategy of the company.",
